@@ -2,7 +2,7 @@
 <resources>
     <declare-styleable name="PieChart">
         <attr name="viewBackgroundColor" format="integer" />
-        <attr name="strokeColor" format="integer" />
+        <attr name="strokeColorNew" format="integer" />
         <attr name="strokeSize" format="float" />
         <attr name="strokeStyle" format="integer">
             <enum name="FILL" value="0" />
